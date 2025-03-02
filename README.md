@@ -11,3 +11,4 @@ The model can assist in generating captions for social media, marketing, or docu
 
 3.Improved Image Search and Organization:
 By generating meaningful captions, the project aids in tagging and organizing large image datasets, making image retrieval and categorization more efficient.
+By Varaprasad
